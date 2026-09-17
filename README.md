@@ -15,3 +15,6 @@
 ## Pair Extraordinaire獲得用コミット
 ぼっちじゃないもん
 GitHubBOTくんがいるもん
+
+### ミス　スミス
+改行を間に挟み忘れたZE☆
